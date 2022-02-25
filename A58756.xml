@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation for the more easie stating and inbringing of the pole-money, and for bringing in lists of what is payed of the hearth-money</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58756</idno>
+            <idno type="STC">Wing S1932</idno>
+            <idno type="STC">ESTC R41643</idno>
+            <idno type="EEBO-CITATION">31355711</idno>
+            <idno type="OCLC">ocm 31355711</idno>
+            <idno type="VID">110620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110620)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1752:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation for the more easie stating and inbringing of the pole-money, and for bringing in lists of what is payed of the hearth-money</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Eliot, Gilbert, Sir, 1651-1718.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By the heirs &amp; successors of A. Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given under Our Signet at Edinburgh the second Day of August, And of Our Reign the Sixth Year, 1694. Per Actum Dominorum Secreti Consili.  Gilb: Eliot, Cls. Sti. Consilii."</note>
+                  <note>Imprint information supplied by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Aberdeen City Charter Room, (Aberdeen, Scotland).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poll tax --  Scotland.</term>
+               <term>Hearth-money --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:110620:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>
+               <hi>PROCLAMATION</hi> For the more eaſie Stating and Inbringing of the <hi>Pole-money;</hi> and for bringing in Liſts of what is payed of the <hi>Hearth-money.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">W</seg>ILLIAM</hi> and <hi>MARY</hi> by the Grace of GOD, King and Queen of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defenders of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Macers of our Privy Councill, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch as, by the <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>th Act of the fourth Seſſion of this Our current Parliament, impoſing the Pole-money, the Lords of Our Privy Councill are impowered to appoint <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch methods and Courſes as they ſhould judge fit, for ſtating and inbring<g ref="char:EOLhyphen"/>ing of the Pole-money aforeſaid; And to decide and determine finally all queſtions and difficulties undetermined by the ſaid Act, that may ariſe anent <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Pole-money therein-ſpecified: Therefore We, with Advice of the Lords of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Privy Councill, for the more ſpeedy &amp; eaſie Stating and Inbringing the fore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id Pole-money, in the particular caſes aftermentioned, peremptorly Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ire and Command all Maſters of Families and Houſe-holders, to give up <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll and true Liſts under their Hand, of their whole Servants Prentices and <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſidenters within their Families, together with a particular and exact Ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompt of their years Fee, due and payable to them at the Term of <hi>Martin<g ref="char:EOLhyphen"/>maſs</hi> next to come, and that they deliver in the Liſts ſo ſubſcribed by them <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Clerk of the Commiſſioners of Supply, who is hereby ordained to <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ſmit the ſame to the Office of the Pole-money at <hi>Edinburgh,</hi> betwixt <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Day contained in the Act of Parliament, as they will be anſwerable. <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d We, with Advice foreſaid, Require and Command the ſaids Maſters <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Houſe-holders, and others who ſhall be lyable and due in any Fees to <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Servants at the ſaid Term of <hi>Martinmaſs</hi> next, to retain in their own <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nds the twentieth part of the ſaid Years Fee due to their Domeſtick Ser<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nts, who are to remove out of their Service at <hi>Martinmaſs</hi> next, where the <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id Fee is payable in Money, to be made forthcoming for the ſaids Ser<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ts Pole-money. And further, We, with Advice foreſaid, Require and Command the Commiſſioners of Supply, and Magiſtrats of Burghs within <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir ſeverall Iuriſdictions, at their firſt meeting, appointed by the foreſaid Act of Parliament, to make up a Liſt of all the vacant Churches within their <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounds, and to Deſign and Condeſcend upon an Heretor living within the <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id Pariſh, lyable in payment of more then twelve pounds <hi>Scots</hi> of yearly S<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipend to the ſaid Kirk, to be the perſon who ſhall pay the twelve pound of Pole-money, wherein the ſaid vacant Kirk is lyable, and a Receipt thereof from the Farmers of the Pole-money, ſhall be a ſufficient exoneration to him of the Sti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end of the ſaid Kirk wherein he is lyable <hi>protanto;</hi> And We with Advice fore<g ref="char:EOLhyphen"/>ſ<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, Require and Command the Commiſſioners of Our Supply, and Magiſtrats within Burghs to go Diligently about the making up the Liſts, and ſtating
+<pb facs="tcp:110620:2"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:110620:2"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:110620:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->
+the Pole-money within their ſeverall Iuriſdictions, conform to the Act of Par<g ref="char:EOLhyphen"/>liament, hereby Impowering and Authoriſing them to condeſcend upon and deſign an Heretor above an hundred pounds of valued Rent, at leaſt in each Pariſh where no Commiſſioner lives, who being ſo deſigned and certified thereof by the Tackſmen of the Pole-money, their Sub-tackſmen or Collec<g ref="char:EOLhyphen"/>tors, We, with Advice foreſaid Require and Command to proceed and make up the Liſts, and ſtate the Pole-money within the ſaid Pariſh, and report the ſaids Liſts to the Clerk of the Commiſſioners of Supply, who is to tranſmit the ſame, with the Liſts made up by the Commiſſioners of Supply them<g ref="char:EOLhyphen"/>ſelves, to the Office of the Pole-money, kept at <hi>Edinburgh,</hi> betwixt and the Day appointed by the foreſaid Act of Parliament: And the ſeveral Com<g ref="char:EOLhyphen"/>miſſioners themſelves to make up the Liſts of the ſeverall Pariſhes within which they Dwell, and Tranſmit the ſame in manner foreſaid. And We, with Advice foreſaid, allow poynding of the perſons lyable to Pole-money, conform to their ſeveral proportions within the Burgh of <hi>Edinburgh,</hi> and o<g ref="char:EOLhyphen"/>ther Royal. Burghs within this our Antient Kingdom, according to the Cuſtoms uſed within the ſeveral Burghs, in exacting and uplifting what falls under their Sient Rolls: And for the better Ingathering of the ſaid Pole-money, and for preventing Tumults and Diſorders, or any oppoſition that may be made in putting the Law in Execution for the ſaid Pole-money; We with Advice foreſaid Require and Command the Officers of our Forces to furniſh ſmall Parties to the Tackſmen of the ſaid Pole-money, their Subtackſmen, or Collectors according as they ſhall be deſired by them, in the Shires where the ſaids Forces ly<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to give Aſſiſtance and Concurrance to them in the Ex<g ref="char:EOLhyphen"/>ecution appointed by Law for Ingathering the Pole-money, but no wayes to be imployed in Quartering upon any Perſon for the ſame. And ſeeing the Proſecution of the foreſaid Act of Parliament, and this preſent Proclamation may be a fit occaſion to take up Liſts of what is Payed or Reſting of the Hearth-money Impoſed by Act of Parliament, One thouſand ſix hundreth and ninety years. Therefore We with Advice foreſaid, Require and Com<g ref="char:EOLhyphen"/>mand the Commiſſioners of Supply within the ſeveral Pariſhes where they Dwell, and the Heretors deſigned for making up the Liſts of the Pole-mo<g ref="char:EOLhyphen"/>ney within the Pariſhes where they Dwell, to make up true and full Liſts of all Sums of Money payed by any of Our Liedges for the Hearth-money, wherein they were lyable at the Term of <hi>Candlemaſs,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dreth and ninty one years, by vertue of the Act of Parliament made there. anent, and preſently to Tranſmit the ſame to the Clerks of the Commiſſioners of Supply, who are hereby Required to Tranſmit them to the Clerk of our The<g ref="char:EOLhyphen"/>ſaury and Exchequer, betwixt and the firſt Day of <hi>October</hi> next to come. OUR WILL IS HEREFORE, and We Charge you ſtrictly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-croſs of <hi>Ediburgh,</hi>) and to the Mercat-croſſes of the remanent Head-Burghs of the whole Shires of this Kingdom, and there in Our Name and Authority, make publick In<g ref="char:EOLhyphen"/>timation of the Premiſſes, that none may pretend Ignorance,</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh</hi> 
+                  <date>the ſecond Day of <hi>Auguſt,</hi> And of Our Reign the Sixth Year 1694.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Conſilii. <hi>GILB: ELIOT,</hi> Cls. Sti. Conſilii.</signed>
+               <lb/>
+GOD Save King WILLIAM and Queen MARY.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
